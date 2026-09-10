@@ -1,6 +1,6 @@
 # Abimbola Omoyola Alexander
 
-Full-Stack Software Engineer  
+Full-Stack Software/Platform Engineer  
 React • Node.js • Python • Automation
 
 ---
