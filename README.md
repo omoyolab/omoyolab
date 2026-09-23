@@ -86,8 +86,8 @@ does not support one.
 |---|---|
 | [EdgeSubmit](https://edgesubmit.com) | Form endpoint for static sites: validation, rate limiting and spam checks at the edge, email delivery, submission log |
 | SplitCast | A/B testing from a single script tag, variant assignment and results in D1 |
-| pxshot | Screenshot API on Cloudflare Browser Rendering |
-| LeadZap | Lead-generation API with email enrichment, queue-backed so long jobs don't block requests |
+| [PxShot](https://pxshot.dev) | Screenshot API for developers, on Cloudflare Browser Rendering |
+| [LeadZap](https://leadzap.dev) | B2B lead generation with verified emails, queue-backed so long jobs don't block requests |
 
 ---
 
@@ -131,6 +131,5 @@ Full-stack applications, backend APIs and AWS deployment automation.
 - Microsoft Certified: Azure Fundamentals (AZ-900)
 - B.S. Computer Science, University of Texas at Dallas
 - A.S. Computer Science, Dallas College
-
 
 
