@@ -8,7 +8,7 @@ Microsoft, plus a set of products I design, ship and operate myself.
 
 Based in Allen, TX (Dallas–Fort Worth) · Open to remote
 
-[Portfolio](https://omoyola.com) · [LinkedIn](https://www.linkedin.com/in/abimbola-omoyola-825875285/) · [Email](mailto:xanderabim@gmail.com)
+[Portfolio](https://omoyola.com) · [LinkedIn](https://www.linkedin.com/in/abimbola-omoyola-825875285/) · [Email](mailto:xanderabim@gmail.com) · [Blog](https://boringtech.dev)
 
 ---
 
