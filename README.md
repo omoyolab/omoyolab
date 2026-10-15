@@ -1,6 +1,3 @@
-# Abimbola Alexander Omoyola
-
-**Full-stack software and platform engineer.** Ten-plus years turning requirements into working systems: APIs, automation, cloud infrastructure and the AI workflows on top. Service delivery engineer at Persado; previously Microsoft. Allen, TX · open to remote.
 
 [Portfolio](https://omoyola.com) · [LinkedIn](https://www.linkedin.com/in/abimbola-omoyola-825875285/) · [Blog](https://boringtech.dev)
 
@@ -14,7 +11,7 @@
 | [ussdkit](https://github.com/omoyolab/ussdkit) | Build USSD apps in Node: declarative screens, sessions, gateway adapters, a phone simulator in the terminal. |
 | [paylocal](https://github.com/omoyolab/paylocal) | Trigger and replay signed Paystack and Flutterwave webhooks against your dev server. No tunnel, no test card. |
 
-## Products I build and run
+## Apps
 
 **[Plus234Feed](https://plus234feed.com)**: Nigerian news and data platform, built and operated solo.
 - FastAPI backend with 200+ endpoints, fed by 36 scheduled scraping and ETL pipelines into Supabase Postgres
@@ -23,7 +20,7 @@
 
 **[WebSentry](https://websentry.dev)**: grades a website's security across 15 checks (TLS, headers, CSP, DNS, email authentication, vulnerable libraries) and explains each result. Scheduled rescans, alerts and PDF reports.
 
-Smaller services: [EdgeSubmit](https://edgesubmit.com) (form endpoint for static sites) · [PxShot](https://pxshot.dev) (screenshot API) · [LeadZap](https://leadzap.dev) (B2B leads with verified emails)
+
 
 ## Tools
 
